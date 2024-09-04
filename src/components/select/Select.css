@@ -1,0 +1,10 @@
+.select {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  justify-content: space-between;
+
+  select {
+    width: 120px;
+  }
+}
